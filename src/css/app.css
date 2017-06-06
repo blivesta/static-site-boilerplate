@@ -1,0 +1,16 @@
+@import "normalize.css";
+@import "sircus";
+@import "./components/button";
+@import "./components/entry";
+
+/* @start color */
+
+:root {
+  --red: rgb(226, 59, 0);
+  --blue: #3f526b;
+  --black: #000;
+  --background: #faf8f5;
+  --primary: var(--blue);
+}
+
+/* @end color */
